@@ -13,7 +13,6 @@ These notes were written in [Obsidian](https://obsidian.md/). Obsidian is a Mark
 
 Each week’s folder breakdown:
 - Random.md - Personal study notes and technical research documentation
-- Workflow.md - Example workflows and experimentation setups    
 - Script.md - Lecture scripts
-- Walkthrough.md - Step-by-step exercises for demo portions
-- \[date].pdf - Slides accompanying the lecture
+- Walkthrough.md - Step-by-step exercises and environment for demo portions
+- \[date].pdf - Images / Diagrams accompanying the lecture
