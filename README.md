@@ -12,7 +12,7 @@ These notes were written in [Obsidian](https://obsidian.md/). Obsidian is a Mark
 # Organization
 
 Each week’s folder breakdown:
-- Random.md - Personal study notes and technical research documentation
+- [folder_name].md - Personal study notes and technical research documentation
 - Script.md - Lecture scripts
 - Walkthrough.md - Step-by-step exercises and environment for demo portions
 - \[date].pdf - Images / Diagrams accompanying the lecture
