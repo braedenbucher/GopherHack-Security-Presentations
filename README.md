@@ -2,7 +2,7 @@
 
 As a Researcher for the University of Minnesota's GopherHack group, I write and present weekly lectures on cybersecurity topics ranging from introductory concepts to specialized research areas. These sessions are used as a personal practice to:
 - Rewrite technical topics with more intuition behind them
-- Write my own demonstrations and workflows as if they were reports.
+- Write my own demonstrations and workflows.
 - Document processes and scripts for reproducibility
 
 # Obsidian Notes
@@ -12,7 +12,8 @@ These notes were written in [Obsidian](https://obsidian.md/). Obsidian is a Mark
 # Organization
 
 Each week’s folder breakdown:
-- [folder_name].md - Personal study notes and technical research documentation
+- /images - Images accompanying the notes
+- \[folder_name].md - Personal study notes and technical research documentation
 - Script.md - Lecture scripts
 - Walkthrough.md - Step-by-step exercises and environment for demo portions
-- \[date].pdf - Images / Diagrams accompanying the lecture
+- \[folder_name].pdf - Images / Diagrams accompanying the lecture
