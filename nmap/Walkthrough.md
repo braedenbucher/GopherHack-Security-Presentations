@@ -7,7 +7,7 @@
 
 ## 1
 To start, we can just throw `nmap [IP]` into the terminal
-![[Walkthrough-nmap1.png]]
+![Example 1](https://github.com/braedenbucher/GopherHack-Security-Presentations//main/nmap/images/Walkthrough-nmap1.png)
 Highlight:
 - `Host  is up (0.035s latency)` indicating a ping scan was done.
 - `Not shown: 998 closed tcp ports (reset)` showing the default is top 1k
